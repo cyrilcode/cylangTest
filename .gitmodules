@@ -1,0 +1,6 @@
+[submodule "lib/cyril-lang"]
+	path = lib/cyril-lang
+	url = git@github.com:cyrilcode/cyril-lang.git
+[submodule "lib/cyfw"]
+	path = lib/cyfw
+	url = git@github.com:cyrilcode/cyfw.git
